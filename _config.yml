@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: John Doe
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -103,4 +103,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:joker452/joker452.github.io.git
+  branch: master
