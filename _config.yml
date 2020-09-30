@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Blog of joker452
 subtitle: ''
 description: ''
-keywords:
-author: John Doe
+keywords: 'Java Python Golang Distributed-System'
+author: joker452
 language: zh-CN
 timezone: ''
 
